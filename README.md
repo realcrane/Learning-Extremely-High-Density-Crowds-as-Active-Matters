@@ -20,10 +20,8 @@ Feixiang He, fxhe1992@gmail.com
 
 He Wang, he_wang@ucl.ac.uk, [Personal website](https://drhewang.com)
 
-Project Webpage: http://drhewang.com/pages/iplan.html
-
 ### Contact
-If you have any questions, please contact me: Feixiang He(fxhe1992@gmail.com)
+If you have any questions, please contact me: Feixiang He (fxhe1992@gmail.com)
 
 ### Citation (Bibtex)
 Please cite our paper if you find it useful:
