@@ -9,62 +9,28 @@ Below is the key environment under which the code was developed, not necessarily
 
 1. Python 3.8.18
 2. pytorch 1.8.2
-3. cuda 10.1
 
 And other libraries such as numpy.
 
-### Prepare data
-Download RPLAN from [here](http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.html) and each data can be processed into the following format:
 
-```
-  data_item
-      - name: file name in RPLAN dataset
-      - boundary: (x, y, dir, isNew), external boundary and first two point indicate the front door
-      - gt_rTypes: room categories
-      - gt_rBoxes: (y0,x0,y1,x1), left-top(in) and right-bottom(out) corner of a room bounding box, extracted directly from the RPLAN dataset
-  ```
-
-### Train
-Train the models for predicting room types, locating room and partitioning room in sequence.
-
-Run the training script, the experiment logs and outputs are saved in experiment.
-
-For example:
-```
-  cd room_type
-  python train_roomtype.py
-```
-The trained model can be download [here](https://drive.google.com/drive/folders/1TRMKu6zw-pgEpGja2zTCixA2WhhU5KXr?usp=sharing) for test.
 ### Authors
-Feixiang He, Yanlong Huang, He Wang
+Feixiang He, Jiangbei Yue, Jialin Zhu, Armin Seyfried, Dan Casas, Julien Pettré, He Wang
 
-Feixiang He, scfh@leeds.ac.uk
+Feixiang He, fxhe1992@gmail.com
 
-He Wang, h.e.wang@leeds.ac.uk, [Personal website](https://drhewang.com)
+He Wang, he_wang@ucl.ac.uk, [Personal website](https://drhewang.com)
 
 Project Webpage: http://drhewang.com/pages/iplan.html
 
 ### Contact
-If you have any questions, please contact me: Feixiang He(scfh@leeds.ac.uk)
-
-### Acknowledgement
-Toolbox to render floorplan: https://github.com/zzilch/RPLAN-Toolbox
-
-Original RPLAN dataset: http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.html
+If you have any questions, please contact me: Feixiang He(fxhe1992@gmail.com)
 
 ### Citation (Bibtex)
 Please cite our paper if you find it useful:
 
-    @article{he2022iplan,
-    title={iPLAN: Interactive and Procedural Layout Planning},
-    author={He, Feixiang and Huang, Yanlong and Wang, He},
-    journal={The Conference on Computer Vision and Pattern Recognition (CVPR)},
-    year={2022}
-    }
-
 ### License
 
-Copyright (c) 2022, The University of Leeds, UK. All rights reserved.
+Copyright (c) 2025, University College London, UK. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
