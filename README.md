@@ -7,8 +7,8 @@ Video-based high-density crowd analysis and prediction has been a long-standing 
 ### Dependencies
 Below is the key environment under which the code was developed, not necessarily the minimal requirements:
 
-1. Python 3.6.13
-2. pytorch 1.7.0
+1. Python 3.8.18
+2. pytorch 1.8.2
 3. cuda 10.1
 
 And other libraries such as numpy.
