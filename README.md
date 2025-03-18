@@ -16,7 +16,7 @@ And other libraries such as numpy.
 ### Authors
 Feixiang He, Jiangbei Yue, Jialin Zhu, Armin Seyfried, Dan Casas, Julien Pettré, He Wang
 
-Feixiang He, fxhe1992@gmail.com
+[Feixiang He](https://feixianghe.github.io/), fxhe1992@gmail.com
 
 He Wang, he_wang@ucl.ac.uk, [Personal website](https://drhewang.com)
 
