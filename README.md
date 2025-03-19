@@ -13,7 +13,8 @@ Below is the key environment under which the code was developed, not necessarily
 And other libraries such as numpy.
 
 ### Prepare data
-The preprocessed data includes Drill, Marathon and Hellfest, you can download the data from [here](https://drive.google.com/drive/folders/19l92MqAORaHEX2js9n0N9zxGH-dgIrgb?usp=drive_link).
+The preprocessed data includes Drill, Marathon and Hellfest, you can download the data from [here](http://pan.csu.edu.cn:80/link/58A31DB82E0F4AE4493F4259AE381854
+有效期限：2025-04-18).
 
 ### Authors
 Feixiang He, Jiangbei Yue, Jialin Zhu, Armin Seyfried, Dan Casas, Julien Pettré, He Wang
