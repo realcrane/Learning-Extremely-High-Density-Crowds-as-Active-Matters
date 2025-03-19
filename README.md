@@ -14,7 +14,7 @@ And other libraries such as numpy.
 
 ### Prepare data
 The preprocessed data includes Drill, Marathon and Hellfest, you can download the data from [here](http://pan.csu.edu.cn:80/link/58A31DB82E0F4AE4493F4259AE381854
-有效期限：2025-04-18).
+有效期限：2028-01-06).
 
 ### Authors
 Feixiang He, Jiangbei Yue, Jialin Zhu, Armin Seyfried, Dan Casas, Julien Pettré, He Wang
